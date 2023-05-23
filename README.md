@@ -74,7 +74,7 @@ npm i gh=pages
 npm run build
 
 -in package.json
-"homepage": "https://hoiwonkim.github.io/react-for-beginners"
+"homepage": "https://hoiwonkim.github.io/Creating-a-Movie-Web-Service-with-ReactJS"
 
 "deploy": "gh-pages -d build",
 "predeploy": "npm run build"
